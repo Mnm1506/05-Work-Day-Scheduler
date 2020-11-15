@@ -15,9 +15,9 @@ This is a simple calendar application that allows a user to save events for each
 - https://momentjs.com/ - Moment.js library
 
 ### User Story :
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+As an employee with a busy schedule,
+i want to add important events to a daily planner,
+so that i can manage my time effectively.
 
 #### Acceptance Criteria :
 
