@@ -32,5 +32,6 @@ SO THAT I can manage my time effectively
 
 
 #### Link to deployed application :
+- https://mnm1506.github.io/05-Work-Day-Scheduler/
 
 
